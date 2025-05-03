@@ -2,6 +2,7 @@ import time
 from telethon.sync import TelegramClient
 from telethon.sessions import StringSession
 
+# This script generates a Telethon string session and sends it to the user's Telegram account.
 def progress_bar():
     for i in range(0, 101, 10):
         print(f"🔄 Generating string session... {i}% complete", end="\r")
