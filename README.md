@@ -57,6 +57,9 @@ python main.py
 - The script will generate a string session and send it to your **Telegram Saved Messages**.
 - The session will also be saved as a `.txt` file in the same directory.
 
+## Sample Usage
+<img src="Assets/Sample%20Usage.svg" alt="Sample Usage" width="600"/>
+
 ## Warning
 - **Do not share your API ID, API Hash, or string session with anyone.**
 - Keep your credentials secure to prevent unauthorized access to your Telegram account.
