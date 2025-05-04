@@ -58,7 +58,7 @@ python main.py
 - The session will also be saved as a `.txt` file in the same directory.
 
 ## Sample Usage
-<img src="Assets/Sample%20Usage.svg" alt="Sample Usage" width="600"/>
+<img src="Assets/Sample%20Usage.svg" alt="Sample Usage"/>
 
 ## Warning
 - **Do not share your API ID, API Hash, or string session with anyone.**
